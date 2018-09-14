@@ -29,6 +29,7 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 repository: kkyon/botflow
 google_analytics: UA-125816898-1
