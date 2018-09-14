@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cb19d8e-6827-462d-916a-26798c0f519e" name="Default Changelist" comment="" />
+    <list default="true" id="8cb19d8e-6827-462d-916a-26798c0f519e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-14-Botflow and Jupyter - Analysis fresh real time data and visual crawler.html" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-14-Botflow and Jupyter  - Analysis fresh real time data and visual crawler.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +205,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="987" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
