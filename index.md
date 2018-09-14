@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Project url : https://github.com/kkyon/botflow
+Project url : <https://github.com/kkyon/botflow>
 
 Below are collection for the botflow Projects / Applications:
 
