@@ -2,8 +2,11 @@
 layout: default
 ---
 
-Python Fast Data driven programming framework for Data pipeline work 
-( Web Crawler,Machine Learning,Quantitative Trading.etc)
+Project url : https://github.com/kkyon/botflow
+
+Below are collection for the botflow Projects / Applications:
+
+##Jupyter Notebook:
 
 <ul>
   {% for post in site.posts %}
